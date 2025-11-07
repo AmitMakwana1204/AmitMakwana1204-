@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Amit+Makwana;A+Passionate+BCA+Student;Learning+Python,+HTML,+and+CSS!" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Amit Makwana</h1>
+<h3 align="center">A passionate BCA student learning Python, HTML, and CSS</h3>
 
 - 🔭 I’m currently studying **Bachelor of Computer Applications**
 - 🌱 I’m currently learning **Python, HTML, CSS**
